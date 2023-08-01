@@ -17,10 +17,8 @@ The company is trying to find solutions to some fundamental problems and I was t
 2. Data Analysis
 3. Use of the Sum() function
 4. Use of the Average() function
-5. Use of Pivot Table
-6. Data Visualization
-
-8. 
-
+5. Use of the Year() function
+6. Use of Pivot Table
+7. Data Visualization
 
 
