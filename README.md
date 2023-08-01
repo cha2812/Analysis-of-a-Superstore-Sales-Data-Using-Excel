@@ -8,7 +8,7 @@ The company is trying to find solutions to some fundamental problems and I was t
 1. What was the total profit generated for each region (East, West, South, Central) and determine the region with the highest overall profit.
 2. Identify the top 5 customers who made the most purchases by the total number of items bought.
 3. Find out the percentage of total revenue and profit for each customer segment (Consumer, Corporate, Home Office).
-4. Which states had the highest number of sales transactions and revenue?
+4. Which states had the lowest number of sales transactions and revenue?
 5. Analyze the sales trend over the years (2014 to 2017) and identify the year with the highest revenue.
 6. Which product category (Furniture, Office Supplies, or Technology) has the highest average profit margin?
 
