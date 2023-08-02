@@ -34,3 +34,5 @@ The next step I did was to visualize my data solved using the Pivot table seen a
 For better understanding, greater insights and explanations, the report below can better see how business problems were solved.
 
 ![](superstore_report.png)
+
+
