@@ -21,4 +21,8 @@ The company is trying to find solutions to some fundamental problems and I was t
 6. Use of Pivot Table
 7. Data Visualization
 
+## Data Analysis
+The original data table provided was a complete data table. The original complete data table can be seen under the file section. The file is called **Superstore.csv**. 
+The business problem was solved using the Pivot table in Excel. The Pivot table can be seen below
 
+![](superstore_pivot.png)
