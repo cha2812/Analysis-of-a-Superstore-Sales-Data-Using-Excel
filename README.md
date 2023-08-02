@@ -26,3 +26,9 @@ The original data table provided was a complete data table. The original complet
 The business problem was solved using the Pivot table in Excel. The Pivot table can be seen below
 
 ![](superstore_pivot.png)
+
+The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below better explanations are made to better explain and provide solutions to the company's problems.
+
+![](superstore_visuals.png)
+
+
