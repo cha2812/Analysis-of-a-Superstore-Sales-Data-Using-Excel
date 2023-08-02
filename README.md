@@ -29,7 +29,7 @@ The business problem was solved using the Pivot table in Excel. The Pivot table 
 
 The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below better insights are made to better explain and provide solutions to the company's problems.
 
-![](superstore_visuals.png)
+![](superstore_visual.png)
 
 For better understanding, greater insights and explanations, the report below can better see how business problems were solved.
 
