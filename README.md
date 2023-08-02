@@ -25,7 +25,7 @@ The company is trying to find solutions to some fundamental problems and I was t
 The original data table provided was a complete data table. The original complete data table can be seen under the file section. The file is called **Superstore.csv**. 
 The business problem was solved using the Pivot table in Excel. The Pivot table can be seen below
 
-![](superstore_pivot.png)
+![](superstore_pivottable.png)
 
 The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below better insights are made to better explain and provide solutions to the company's problems.
 
