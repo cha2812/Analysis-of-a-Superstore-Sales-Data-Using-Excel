@@ -35,4 +35,15 @@ For better understanding, greater insights and explanations, the report below ca
 
 ![](superstore_report.png)
 
+## Conclusion
+The KPIs used for this project were
+1. Profit: Calculates the profit generated from sales after deducting all expenses. Indicated the business's profitability.
+2. Discount: Measures the percentage of discount offered on products. helps evaluate the effectiveness of discount strategies.
+3. Quantity: Tracks the total number of products sold. Provides insights into product demand and sales trends.
+4. Sales: Measures the total revenue generated from selling products. Helps track the overall financial performance of the business.
 
+The West Region is the best region in terms of profit for the company at $108,418
+North Dakota represents our least-performing state in terms of sales at $920. They can decide to make targeted marketing campaigns tailored to the preferences and interests of customers. They can also partner with local celebrities and influencers who have huge followings in the state to create brand and product awareness.
+The Office Supplies category represents the company's best average profit margin at $83,177.06. The average profit margin was gotten by (Profit/Sales) and then we added all the average profit margin figures for the various categories.
+I hope the company would be able to improve sales and profit as that is the major reason for business.
+ 
