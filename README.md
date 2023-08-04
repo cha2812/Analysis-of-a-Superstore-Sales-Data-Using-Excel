@@ -64,13 +64,13 @@ For problem 4, North Dakota had the lowest total sales at $920.
 ![](visual4.png)
 
 For problem 5, 2017 represented the year with the highest revenue/sales. 2015 was the least productive year in terms of revenue for the time period (2014 -2017). The sales went in 2015 from what it was in 2014 but picked up back in 2016 and continued to grow in 2017.
-![](visual5.png)
+![](vis5.png)
 
 For problem 6, Office Supplies has the highest average percentage margin of profit at 69%.
 ![](visual6.png)
 
 The visual below is a full representation with a slicer included with the chart. I used the discount and sub-category as my slicers.
-![](superstore_vis.png)
+![](superstore_pic.png)
 
 For better understanding, greater insights and explanations, the report below can better see how business problems were solved.
 
