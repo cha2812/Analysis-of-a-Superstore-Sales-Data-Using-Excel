@@ -10,7 +10,7 @@ The company is trying to find solutions to some fundamental problems and I was t
 3. Find out the percentage of total revenue and profit for each customer segment (Consumer, Corporate, Home Office).
 4. Which states had the lowest number of sales transactions and revenue?
 5. Analyze the sales trend over the years (2014 to 2017) and identify the year with the highest revenue.
-6. Which product category (Furniture, Office Supplies, or Technology) has the highest average profit margin?
+6. Which product category (Furniture, Office Supplies, or Technology) has the highest percentage average profit margin?
 
 ## Skills Demonstrated
 1. Data  Processing
@@ -23,9 +23,25 @@ The company is trying to find solutions to some fundamental problems and I was t
 
 ## Data Analysis
 The original data table provided was complete. The original complete data table can be seen under the file section. The file is called **Superstore.csv**. 
-The business problem was solved using the Pivot table in Excel. The Pivot table can be seen below
+The business problems were solved using the Pivot table in Excel. The Pivot tables can be seen below
 
-![](superstore_pivottable.png)
+For problem 1, the total profit generated for each region (East, West, South, Central) and the region with the highest overall profit.
+![](question1.png)
+
+For problem 2, the top 5 customers who made the most purchases by the total number of items bought.
+![](question2.png)
+
+For problem 3, the percentage of total revenue and profit for each customer segment (Consumer, Corporate, Home Office).
+![](question3.png)
+
+For problem 4, the 5 states that had the lowest number of sales transactions and revenue?
+![](question4.png)
+
+For problem 5, the sales trend over the years (2014 to 2017) and the year with the highest revenue.
+![](question5.png)
+
+For problem 6, the product category (Furniture, Office Supplies, or Technology) with the highest percentage average profit margin
+![](question6.png)
 
 The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below better insights are made to better explain and provide solutions to the company's problems.
 
