@@ -26,21 +26,27 @@ The original data table provided was complete. The original complete data table 
 The business problems were solved using the Pivot table in Excel. The Pivot tables can be seen below
 
 For problem 1, the total profit generated for each region (East, West, South, Central) and the region with the highest overall profit.
+
 ![](question1.png)
 
 For problem 2, the top 5 customers who made the most purchases by the total number of items bought.
+
 ![](question2.png)
 
 For problem 3, the percentage of total revenue and profit for each customer segment (Consumer, Corporate, Home Office).
+
 ![](question3.png)
 
 For problem 4, the 5 states that had the lowest number of sales transactions and revenue?
+
 ![](question4.png)
 
 For problem 5, the sales trend over the years (2014 to 2017) and the year with the highest revenue.
+
 ![](question5.png)
 
 For problem 6, the product category (Furniture, Office Supplies, or Technology) with the highest percentage average profit margin
+
 ![](question6.png)
 
 The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below, better insights are made to better explain and provide solutions to the company's problems. A report was made also to better explain and state our findings.
