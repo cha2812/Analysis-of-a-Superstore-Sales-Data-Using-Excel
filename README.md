@@ -74,7 +74,7 @@ The visual below is a full representation with a slicer included with the chart.
 
 For better understanding, greater insights and explanations, the report below can better see how business problems were solved.
 
-![](superstore_report.png)
+![](superstore_report1.png)
 
 ## Conclusion
 The KPIs used for this project were
