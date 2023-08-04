@@ -45,6 +45,25 @@ For problem 6, the product category (Furniture, Office Supplies, or Technology) 
 
 The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below better insights are made to better explain and provide solutions to the company's problems.
 
+For problem 1, the visuals
+![](viz1.png)
+
+For problem 2, the visuals
+![](viz2,png)
+
+For problem 3, the visuals
+![](viz3.png)
+
+For problem 4, the visuals
+![](viz4.png)
+
+For problem 5, the visuals
+![](viz5.png)
+
+For problem 6, the visuals
+![](viz6.png)
+
+The visual below is a full representation with a slicer included with the chart. I used the discount and sub-category as my slicers.
 ![](superstore_viz.png)
 
 For better understanding, greater insights and explanations, the report below can better see how business problems were solved.
