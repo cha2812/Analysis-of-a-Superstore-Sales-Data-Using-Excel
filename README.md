@@ -43,24 +43,24 @@ For problem 5, the sales trend over the years (2014 to 2017) and the year with t
 For problem 6, the product category (Furniture, Office Supplies, or Technology) with the highest percentage average profit margin
 ![](question6.png)
 
-The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below better insights are made to better explain and provide solutions to the company's problems.
+The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below, better insights are made to better explain and provide solutions to the company's problems. A report was made also to better explain and state our findings.
 
-For problem 1, the visuals
+For problem 1, The West Region is the region with the highest overall profit with a total profit of $108,418.
 ![](viz1.png)
 
-For problem 2, the visuals
+For problem 2, The top 5 customers with the most purchases by the total number of items bought are Jonathan Doherty, William Brown, John Lee, Paul Prost and Steven Cartwright.
 ![](viz2,png)
 
-For problem 3, the visuals
+For problem 3, The Consumer Segment has the highest percentage of sales at 50.56% and the most profit at 46.83% while the Home Office Segment generates the least percentage of sales at 18.70%  and the least profit at 21.05% for the company.
 ![](viz3.png)
 
-For problem 4, the visuals
+For problem 4, North Dakota had the lowest total sales at $920.
 ![](viz4.png)
 
-For problem 5, the visuals
+For problem 5, 2017 represented the year with the highest revenue/sales. 2015 was the least productive year in terms of revenue for the time period (2014 -2017). The sales went in 2015 from what it was in 2014 but picked up back in 2016 and continued to grow in 2017.
 ![](viz5.png)
 
-For problem 6, the visuals
+For problem 6, Office Supplies has the highest average percentage margin of profit at 69%.
 ![](viz6.png)
 
 The visual below is a full representation with a slicer included with the chart. I used the discount and sub-category as my slicers.
