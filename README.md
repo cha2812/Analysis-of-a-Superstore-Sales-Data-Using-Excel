@@ -58,7 +58,7 @@ For problem 2, The top 5 customers with the most purchases by the total number o
 ![](visual2.png)
 
 For problem 3, The Consumer Segment has the highest percentage of sales at 50.56% and the most profit at 46.83% while the Home Office Segment generates the least percentage of sales at 18.70%  and the least profit at 21.05% for the company.
-![](visual3.png)
+![](visual3a.png)                                        ![](visualb.png)
 
 For problem 4, North Dakota had the lowest total sales at $920.
 ![](visual4.png)
