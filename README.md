@@ -72,7 +72,7 @@ For problem 6, Office Supplies has the highest average percentage margin of prof
 The visual below is a presentation with a slicer that was included with the chart. Introducing slicers into the chart allowed me to interactively filter and control the data displayed in my visuals. I used the discount and sub-category as my slicers.
 When you use the "Discount" slicer, it means you can adjust the discount level you want to focus on.
 The "Sub-category" slicer allows you to narrow down the chart's focus to specific product sub-categories
-![](superstore_pic.png)
+![](slicers.png)
 
 For better understanding, greater insights and explanations, the report below can better see how business problems were solved.
 
